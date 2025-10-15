@@ -1,11 +1,12 @@
-Glory Chocolate Website 🍫
-Project Overview
+Glory Chocolate Website 
+
+Project Overview :
 
 I created this website as part of my internship task to learn Nunjucks templating and Gulp task runner. The goal was to build a modern, responsive website that showcases Glory Chocolate’s products, story, and team.
 
 The website includes a Home page, About page, and Contact page, all designed to look professional and work smoothly on all devices.
 
-Technologies Used
+Technologies Used :
 
 HTML5 and CSS3
 
@@ -19,7 +20,7 @@ Vanilla JavaScript for interactivity (forms, carousel, swipe navigation)
 
 Git & GitHub for version control
 
-Pages
+Pages :
 
 Home Page (index.html) – Hero carousel, product cards, features, call-to-action section, and footer.
 
@@ -51,7 +52,7 @@ Implementing swipe navigation for better user experience
 
 Making sure all images, CSS, and JS compiled correctly using Gulp
 
-What I Learned
+What I Learned :
 
 How to use Nunjucks templates to create reusable components
 
@@ -65,7 +66,7 @@ How to organize a project with proper folder structure (src, dist, etc.)
 
 Writing clean, maintainable HTML and CSS
 
-Time Taken
+Time Taken :
 
 Total time: ~1 day
 
@@ -74,9 +75,9 @@ Around 6–7 hours including design, coding, and setup
 Live Website
 
 Click here to view the website
- <!-- Replace with your live link -->
+https://glory-chocolate-website-task-2-wa8h.onrender.com
 
-Submission Checklist
+Submission Checklist :
 
 All pages are fully responsive
 
